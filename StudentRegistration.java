@@ -1,3 +1,6 @@
+/**
+	 * Library Management System.
+	 */
 package library;
 
 
